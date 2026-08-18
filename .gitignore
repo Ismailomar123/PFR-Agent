@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+evaluation_reports/
+test_output.txt
